@@ -1,0 +1,6 @@
+- name: "shanghai"
+  link: "https://kitt.lewagon.com/placeholder/cities/shanghai"
+- name: "berlin"
+  link: "https://kitt.lewagon.com/placeholder/cities/berlin"
+- name: "paris"
+  link: "https://kitt.lewagon.com/placeholder/cities/paris"
